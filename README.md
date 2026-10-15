@@ -11,38 +11,44 @@ Database Used: MySQL
 
 ## Add Task
 Before:
-- <img width="1911" height="957" alt="Screenshot 2026-09-28 232159" src="https://github.com/user-attachments/assets/79a01e34-4518-49a9-93b5-56f46828dae4" />
+<img width="1390" height="587" alt="image" src="https://github.com/user-attachments/assets/9ec17e23-f0fa-4631-a389-28c82b19879a" />
+
 
 During:
-<img width="1132" height="800" alt="image" src="https://github.com/user-attachments/assets/27e53c61-3932-4970-8a35-b66995b550dc" />
+<img width="1160" height="586" alt="image" src="https://github.com/user-attachments/assets/dbf392b6-7953-4120-adde-2ff7e002e236" />
 
 After:
-<img width="1808" height="680" alt="image" src="https://github.com/user-attachments/assets/c6d1df9b-c8e0-4cc2-99d3-409e284e2d4d" />
+<img width="1395" height="607" alt="image" src="https://github.com/user-attachments/assets/7dda2a8a-659e-4b73-b637-c818c3b61516" />
+
 
 ## View task and Edit Task
 First:
-<img width="1808" height="680" alt="image" src="https://github.com/user-attachments/assets/c6d1df9b-c8e0-4cc2-99d3-409e284e2d4d" />
+<img width="1395" height="607" alt="image" src="https://github.com/user-attachments/assets/302cd5cf-5c1b-41fa-a87c-bfe014e9f585" />
+
 
 Before:
-<img width="1608" height="886" alt="image" src="https://github.com/user-attachments/assets/bfc9de3f-8ed8-4f37-a3ba-816731735835" />
+<img width="1331" height="588" alt="image" src="https://github.com/user-attachments/assets/e22760d4-510a-493e-ad85-8b499cf8b32d" />
+
+
 
 After:
-<img width="1863" height="712" alt="image" src="https://github.com/user-attachments/assets/9c55ab6b-e84f-43df-897c-50643f469320" />
+<img width="1363" height="572" alt="image" src="https://github.com/user-attachments/assets/1e08d304-609c-4c6a-8be8-89edfb0725cb" />
 
 ## Delete
 Before:
-<img width="1808" height="680" alt="Screenshot 2026-09-28 232456" src="https://github.com/user-attachments/assets/7b1df299-afd3-4210-b215-ffdf774214b2" />
+<img width="1363" height="572" alt="image" src="https://github.com/user-attachments/assets/e278e54a-d162-4694-a357-fdb9c5553979" />
 
 
 After:
-<img width="1911" height="957" alt="Screenshot 2026-09-28 232159" src="https://github.com/user-attachments/assets/fda109c4-4db3-46c6-9593-46554e22b1ad" />
+<img width="1382" height="566" alt="image" src="https://github.com/user-attachments/assets/877962c9-8def-4aed-a15c-c085ac98bc3c" />
+
 
 ## Update Status
 
 Before:
-<img width="1866" height="841" alt="image" src="https://github.com/user-attachments/assets/fd3741a2-af64-4602-b18e-58e6de36e803" />
-
+<<img width="1331" height="588" alt="image" src="https://github.com/user-attachments/assets/e22760d4-510a-493e-ad85-8b499cf8b32d" />
 
 After:
-<img width="1782" height="653" alt="image" src="https://github.com/user-attachments/assets/e2f3bc2f-2745-49d8-b28e-638a8a46478d" />
+<img width="1363" height="572" alt="image" src="https://github.com/user-attachments/assets/1e08d304-609c-4c6a-8be8-89edfb0725cb" />
+
 
