@@ -1,8 +1,8 @@
 ## Project Code: WST21-PM-2026-SF
-Student Name: Raganas, Brent JB
+Student Name:Pugoso, John Ezra Y.
 Course & Year: BSIT / 2nd Year
 Database Used: MySQL
-Features:
+## Features:
 - Add Task
 - View Tasks
 - Edit Task
